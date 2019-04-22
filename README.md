@@ -24,3 +24,7 @@ You may install them by using pip install in the command prompt.
 This is the interface panel of the program. After setting up, you may enter the detection model you want to use, as well as the .ph and .phtxt file. The NUM_CLASSES value depends on the number of labels in the pbtxt file. Next, select the video file you want to process and specify the name for the output video. 
 
 Besides, skip_frames is how frequently you want to run the object detection. 
+
+
+## Result
+The Video Link.txt file contains a download link of the detection output yield by our drone video team. It uses the faster rcnn model trained by Xinlue Liu (https://github.com/XinlueLiu/TensorFlow-classifiers). 
