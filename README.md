@@ -10,11 +10,18 @@ If the Tensorflow object detection api has not been set up, you may use the link
 
 # Libraries
 numpy
+
 argparse
+
 imutils
+
 dlib
+
 cv2
+
 tensorflow
+
+You may install them by using pip install in the command prompt.
 
 ## Interface
 ![Interface](https://user-images.githubusercontent.com/46501711/56524595-b3667400-6517-11e9-8de3-caabcd0423a9.JPG)
