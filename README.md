@@ -9,17 +9,12 @@ If the Tensorflow object detection api has already been set up in your device, j
 If the Tensorflow object detection api has not been set up, you may use the link in the Download.txt file to download what you need to run the program. You may find the setup step helpful in here: https://github.com/tensorflow/models/tree/master/research/object_detection.
 
 # Libraries
-numpy
-
-argparse
-
-imutils
-
-dlib
-
-cv2
-
-tensorflow
+- numpy
+- argparse
+- imutils
+- dlib
+- cv2
+- tensorflow
 
 You may install them by using pip install in the command prompt.
 
